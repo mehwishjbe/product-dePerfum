@@ -15,3 +15,15 @@ body{
     width: 500px;
     margin-top: 60px;
 }
+
+.img-div{
+    height: 460px;
+    width: 250px;
+    background-color: aquamarine;
+    background-image: url(./images/image-product-desktop.jpg);
+    background-repeat: no-repeat;
+    background-position-x: -30px;
+    background-size: cover;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px; 
+}
