@@ -1,6 +1,6 @@
 # Product Preview De-Perfum
 
-This is a simple product preview webpage for Gabrielle Essence Eau De Parfum. It was created as part of a Frontend Mentor challenge. You can view the live version of this page [here](https://mehwishjbe.github.io/product-preview-dePerfum/).
+This is a simple product preview webpage for Gabrielle Essence Eau De Parfum. It was created as part of a Frontend Mentor challenge. You can view the live version of this page [You can view the live demo of this project here:(https://mehwishjbe.github.io/product-preview-dePerfum/).
 
 ## Table of Contents
 
