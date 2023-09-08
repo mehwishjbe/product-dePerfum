@@ -3,6 +3,8 @@
 This is a simple product preview webpage for Gabrielle Essence Eau De Parfum. It was created as part of a Frontend Mentor challenge. 
 You can view the live version of this page [Gabrielle Essence Eau De Parfum Demo](https://mehwishjbe.github.io/product-preview-dePerfum/).
 
+![Gabrielle Essence Eau De Parfum Preview](./images/product-preview.JPG)
+
 ## Table of Contents
 
 - [About](#about)
