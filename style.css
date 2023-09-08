@@ -67,3 +67,11 @@ span{
 .price{
     display: flex;
 }
+
+#price1{
+    color: hsl(158, 36%, 37%);
+    font-size: 30px;
+    padding-left: 25px;
+    padding-top: 25px;
+    font-family: 'Fraunces', serif;
+}
