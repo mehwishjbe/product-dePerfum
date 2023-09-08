@@ -75,3 +75,13 @@ span{
     padding-top: 25px;
     font-family: 'Fraunces', serif;
 }
+
+#price2{
+    text-decoration: line-through;
+    color: hsl(228, 12%, 48%);
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    padding-left: 20px;
+    padding-top: 35px;
+}
