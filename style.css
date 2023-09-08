@@ -96,3 +96,19 @@ span{
     height: auto;
     padding-left: 25px;
 }
+
+button{
+    display: flex;
+    padding-left: 25px;
+    background-color: hsl(158, 36%, 37%);
+    border: none;
+    padding: 10px 60px;
+    color: hsl(0, 0%, 100%) ;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    border-radius: 6px;
+    margin-top: 10px;
+    text-align: center;
+    cursor: pointer;
+}
