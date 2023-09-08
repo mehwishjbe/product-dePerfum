@@ -1,6 +1,7 @@
 # Product Preview Gabrielle Essence Eau De Parfum
 
-This is a simple product preview webpage for Gabrielle Essence Eau De Parfum. It was created as part of a Frontend Mentor challenge. 
+This is a simple product preview webpage for Gabrielle Essence Eau De Parfum. It was created as part of a Frontend Mentor challenge. [Gabrielle De Parfum](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). 
+
 You can view the live version of this page [Gabrielle Essence Eau De Parfum Demo](https://mehwishjbe.github.io/product-preview-dePerfum/).
 
 ![Gabrielle Essence Eau De Parfum Preview](./images/product-preview.JPG)
