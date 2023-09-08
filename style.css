@@ -89,3 +89,10 @@ span{
     padding-left: 20px;
     padding-top: 35px;
 }
+
+.addToCart{
+    padding: 10px;
+    width: 100%;
+    height: auto;
+    padding-left: 25px;
+}
