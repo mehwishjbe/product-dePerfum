@@ -63,3 +63,7 @@ span{
     padding-top: 25px;
     line-height: 1.6;
 }
+
+.price{
+    display: flex;
+}
