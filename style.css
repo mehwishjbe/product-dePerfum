@@ -117,3 +117,7 @@ button:hover{
     background-color: hsl(212, 21%, 14%) ;
     color:  white;
 }
+
+#cart{
+    padding-right: 10px;
+}
